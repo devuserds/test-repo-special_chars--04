@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 4
+Branch index: 3
+File slot: 1
+Special character: '(' (label: lparen)
+Repo: test.repo_004
+Branch: branch-004-03-squote-'-x
+Path: special-chars/file-004-03-1-lparen-(-x.txt
